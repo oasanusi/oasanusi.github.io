@@ -1,8 +1,8 @@
-## Portfolio
+## Portfolio of Some Data Science Projects
 
 ---
 
-### Category Name 1 
+### Natural Language Processing (NLP)
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Time Series Analysis and Forecasting
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
