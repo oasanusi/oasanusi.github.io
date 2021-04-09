@@ -2,7 +2,7 @@
 
 ---
 
-### National Language Processing – Georgetown University Data Science Capstone Team Project
+### National Language Processing (NLP)– Georgetown University Data Science Capstone Team Project
 
 [FRL- Fake News Classification](/sample_page)
 
