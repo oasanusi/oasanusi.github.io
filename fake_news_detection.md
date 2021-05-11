@@ -167,3 +167,5 @@ On the other hand, if all performance evaluation criteria are considered, the de
 
 
 With the highest classification accuracy score of **90.66%**, recall of **91%**, the Deep NN classifier is perfect for distinguishing word patterns in fake news articles. 
+
+Check out full codes and notebook on [github](https://github.com/oasanusi/Fake-News-Detection-Using-Machine-Learning-Classifiers)
