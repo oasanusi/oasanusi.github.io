@@ -10,7 +10,6 @@ Fake News Detection using Machine Learning Classifiers | Natural Language Proces
 
 Fake news has been dominating social and online news media in recent years.  Fake news can be considered as unverified, inaccurate, and maliciously  distorted information that are not easy to distinguish from genuine news (Jang, Park, & Seo, 2019). I can conclude that fake news are news  content that have been verified to be false by fact checkers. However,  there are no agreed upon definition of the term `fake news`.  One thing that can be generally be agreed upon is that fake news  encapsulate pieces of information that are generally false, hoaxes,  misleading or exaggerated. A conceptual framework created by Wardle and  Derakhsan (2017) can help us better understand fake news. This  conceptual model presented in figure 1 fake news into 3: (1)  mis-information (2) dis-information (3) mal-information.
 
-![fake news](/images/fakenews.png)
 
 <img src="/images/fakenews.png" style="zoom:80%;" />
 
