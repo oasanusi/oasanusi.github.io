@@ -12,6 +12,8 @@ Fake news has been dominating social and online news media in recent years.  Fak
 
 ![fake news](/images/fakenews.png)
 
+<img src="/images/fakenews.png" style="zoom:80%;" />
+
 **Figure 1: Conceptual framework explaining fake news. Source: Wardle and Derakhsan (2017)**
 
 Fake news weakens the legitimacy of media institutions because the false  information disseminated by fake news spread faster and deeper  consequently reaching larger audience(Bozarth & Budak, 2020). The  coverage and spread of false information is alarming. For example,  during the 2016 U.S election campaign, the top 20 discussed fake  election information generated about 8 million reactions, shares and  comments on Facebook while on the other hand, genuine/real news from the larger news websites garner about 7.3 million comments, reactions and  shares (Zhou, Jain, Phoha, & Zafarani, 2020). It is therefore  imperative that fake news is detected in its earlier phase before it  reaches a broad audience since is it now extremely difficult for the  general public to distinguish fake news from credible/genuine/real news  (Bozarth & Budak, 2020). 
@@ -81,8 +83,8 @@ memory usage: 10.2 GB
 ```
 
 **Distribution of label classes**
+
 <img src="/images/distribution label.png" style="zoom:80%;" />
-![label distribution]('/images/distribution label.png')
 
 ___
 
