@@ -82,7 +82,7 @@ memory usage: 10.2 GB
 
 **Distribution of label classes**
 
-![label distribution](/images/distribution label.png)
+![label distribution]('/images/distribution label.png')
 
 ___
 
