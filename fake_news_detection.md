@@ -81,7 +81,7 @@ memory usage: 10.2 GB
 ```
 
 **Distribution of label classes**
-
+<img src="/images/distribution label.png" style="zoom:80%;" />
 ![label distribution]('/images/distribution label.png')
 
 ___
