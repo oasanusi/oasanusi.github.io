@@ -170,6 +170,7 @@ With the highest classification accuracy score of **90.66%**, recall of **91%**,
 
 Check out full codes and notebook on [github](https://github.com/oasanusi/Fake-News-Detection-Using-Machine-Learning-Classifiers)
 
+___
 ## Acknowledgements
-
+___
 A big thanks to my capstone project team members ([Drew207](https://github.com/Drew207), [elceespatial](https://github.com/elceespatial), [j-tanner](https://github.com/j-tanner), [deescaramella](https://github.com/deescaramella), [ajohns75](https://github.com/ajohns75)) during my data science certificate program at Georgetown University. Working with you guys on the Fake News NLP project was a very remarkable learning experience.
