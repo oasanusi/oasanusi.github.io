@@ -82,7 +82,7 @@ memory usage: 10.2 GB
 
 **Distribution of label classes**
 
-![label distribution](C:\Users\lanre\Pictures\distribution label.png)
+![label distribution](/images/distribution label.png)
 
 ___
 
@@ -100,7 +100,7 @@ The corpus need to be cleaned in order to get rid of noises such as accented cha
 
 Features considered excluded the domain column because of the imbalance  in the distribution of domain by label classes and from the result of my Georgeotown capstone group project that suggested that the domain is  responsible for the overfitting of all the models.  According to the  results from the [Georgetown University Data Science Capstone project](https://github.com/georgetown-analytics/From-Russia-With-Love-fake-news-), the classifiers seems to be learning domain-specific features as  opposed to the actual word patterns that distinguish fake news from real news articles
 
-<img src="C:\Users\lanre\Pictures\class bal.png" style="zoom:80%;" />
+<img src="/images/class bal.png" style="zoom:80%;" />
 
 ___
 
@@ -129,7 +129,7 @@ Several machine learning classifiers was used in model training and prediction. 
 
 **model selection**
 
-<img src="C:\Users\lanre\Pictures\models.png" style="zoom:80%;" />
+<img src="/images/models.png" style="zoom:80%;" />
 
 
 
