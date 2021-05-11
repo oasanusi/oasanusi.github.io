@@ -4,7 +4,7 @@
 
 ### National Language Processing (NLP)– Georgetown University Data Science Capstone Team Project
 
-[FRL- Fake News Classification](/sample_page)
+[FRL- Fake News Classification](/fake_news_detection)
 
 - This capstone project focused on fake news detection using supervised learning machine learning (ML) classifiers. Several ML classifiers that include Random Forest, Linear SVC, Logistic Regression, Multinomial Naïve Bayes, Stochastic Gradient Descent, Bi-Directional LSTM , Decision trees and Ensemble models were trained to learn word patterns that helped in identifying fake news contents.
 - Models performances were evaluated using Yellowbrick and MLxtend. All of the models performed exceptionally well with F1 score of between 0.98 and 1.0 which might be attributed to overfitting.
