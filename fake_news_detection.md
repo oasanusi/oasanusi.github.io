@@ -171,6 +171,16 @@ With the highest classification accuracy score of **90.66%**, recall of **91%**,
 Check out full codes and notebook on [github](https://github.com/oasanusi/Fake-News-Detection-Using-Machine-Learning-Classifiers)
 
 ___
+## References
+___
+Bozarth, L., & Budak, C. (2020). *Toward a Better Performance Evaluation Framework for Fake News Classification.* Paper presented at the Proceedings of the International AAAI Conference on Web and Social Media.
+
+Jang, Y., Park, C.-H., & Seo, Y.-S. (2019). Fake news analysis modeling using quote retweet. *Electronics, 8*(12), 1377. 
+
+Wardle, C., & Derakhshan, H. (2017). Information disorder: Toward an interdisciplinary framework for research and policy making. *Council of Europe report*, *27*, 1-107
+
+Zhou, X., Jain, A., Phoha, V. V., & Zafarani, R. (2020). Fake news early detection: A theory-driven model. *Digital Threats: Research and Practice, 1*(2), 1-25. 
+___
 ## Acknowledgements
 ___
 A big thanks to my capstone project team members ([Drew207](https://github.com/Drew207), [elceespatial](https://github.com/elceespatial), [j-tanner](https://github.com/j-tanner), [deescaramella](https://github.com/deescaramella), [ajohns75](https://github.com/ajohns75)) during my data science certificate program at Georgetown University. Working with you guys on the Fake News NLP project was a very remarkable learning experience.
