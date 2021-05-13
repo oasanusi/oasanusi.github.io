@@ -180,6 +180,7 @@ Jang, Y., Park, C.-H., & Seo, Y.-S. (2019). Fake news analysis modeling using qu
 Wardle, C., & Derakhshan, H. (2017). Information disorder: Toward an interdisciplinary framework for research and policy making. *Council of Europe report*, *27*, 1-107
 
 Zhou, X., Jain, A., Phoha, V. V., & Zafarani, R. (2020). Fake news early detection: A theory-driven model. *Digital Threats: Research and Practice, 1*(2), 1-25. 
+
 ___
 ## Acknowledgements
 ___
