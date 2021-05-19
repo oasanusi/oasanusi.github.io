@@ -4,7 +4,7 @@
 
 [Fake News Detection using ML Classifiers](https://oasanusi.github.io/fake_news_detection) | ***Natural Language Processing (NLP)\***
 
-<img src="C:\Users\lanre\Pictures\models.png" alt="ML classifiers" style="zoom:150%;" />
+<img src="/images/models.png" alt="ML classifiers" style="zoom:150%;" />
 
 ##### Description:
 
@@ -34,7 +34,7 @@ Check out full codes and notebook on [github](https://github.com/oasanusi/Fake-N
 
 Analysis of Crime Types in Baltimore City, MD | ***Exploratory Data Analysis (EDA)\***
 
-<img src="C:\Users\lanre\Pictures\baltimore_crime.png" alt="baltimore" style="zoom:72%;" />
+<img src="/images/baltimore_crime.png" alt="baltimore" style="zoom:72%;" />
 
 ##### Description:
 
@@ -56,7 +56,7 @@ Check out full codes and notebook on [github](https://github.com/oasanusi/Fake-N
 
 Predicting Baltimore City (MD) Crimes using Time Series SARIMAX model | ***Time Series Forecasting\***        
 
-<img src="C:\Users\lanre\Pictures\ts_baltimore.png" alt="time series" style="zoom:150%;" />
+<img src="/images/ts_baltimore.png" alt="time series" style="zoom:150%;" />
 
 ##### Description:
 
