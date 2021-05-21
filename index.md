@@ -32,7 +32,7 @@ Check out full codes and notebook on [github](https://github.com/oasanusi/Fake-N
 
 ##### Title:
 
-[Analysis of Crime Types in Baltimore City, MD](https://oasanusi.github.io/fake_news_detection) | ***Exploratory Data Analysis (EDA)\***
+[Analysis of Crime Types in Baltimore City, MD](https://oasanusi.github.io/analysis_of_baltimore_crimes) | ***Exploratory Data Analysis (EDA)\***
 
 <img src="/images/baltimore_crime.png" alt="baltimore" style="zoom:72%;" />
 
