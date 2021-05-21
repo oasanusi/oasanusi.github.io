@@ -66,11 +66,11 @@ ___
 
 The following figures shows the relative proportion and distribution of all the crime types reported by the Baltimore PD.
 
-<img src="C:\Users\lanre\Pictures\baltimore_crime.png" alt="treemap" style="zoom:72%;" />
+<img src="/images/baltimore_crime.png" alt="treemap" style="zoom:72%;" />
 
 
 
-<img src="C:\Users\lanre\Pictures\crimes_dist.png" alt="crimes_dist" style="zoom:80%;" />
+<img src="/images/crimes_dist.png" alt="crimes_dist" style="zoom:80%;" />
 
 
 
@@ -95,13 +95,13 @@ ARSON                    0.424066
 
 
 
-![all](C:\Users\lanre\Pictures\all_crimes.png)
+![all](/images/all_crimes.png)
 
 
 
 From the figure above, you can see that there is a clear pattern in crime and the hour of the day, seasons and year. Generally, crime is low in the early morning hours from around 4:00 AM to 6:00 AM and it rises steadily to its peak in the late evening from 5:00PM. The crimes remains high throughout the night until it starts to decrease after midnight. It can also be seen that majority of the crime occur during summer when the weather is really nice for outdoor activities. The overall crime trend reveals that crimes start increasing gradually from 2014 until it reached the peak in 2017 and start decreasing steadily until reaching the lowest in 2020
 
-<img src="C:\Users\lanre\Pictures\districts.png" alt="districts" style="zoom:150%;" />
+<img src="/images/districts.png" alt="districts" style="zoom:150%;" />
 
 The northeast and southeast police district has the highest recorded overall crimes in Baltimore, while the western district has the lowest. The heatmap plot also reveals that  fridays is the likely day that crimes occur in the city.
 
@@ -109,7 +109,7 @@ The northeast and southeast police district has the highest recorded overall cri
 
 This analysis was able to reveal that Downtown is the most dangerous neighborhood with crimes rate that was over 12,000 for the period under consideration. The safest neighborhoods all have crime rates less than 50 over the 7 years period. They include Taylor heights, Greenmount cemetery, Mt. pleasant park, Blythewood and Dundalk marine terminal.
 
-<img src="C:\Users\lanre\Pictures\all_neighborhood.png" alt="neighborhood" style="zoom:200%;" />
+<img src="/images/all_neighborhood.png" alt="neighborhood" style="zoom:200%;" />
 
 ___
 
@@ -123,7 +123,7 @@ Examining the individual crime types reveals that only five crime types show inc
 
 
 
-<img src="C:\Users\lanre\Pictures\crime_type_trend.png" alt="crime type trends" style="zoom:150%;" />
+<img src="/images/crime_type_trend.png" alt="crime type trends" style="zoom:150%;" />
 
 ## Summary of crime types with increasing trends
 
